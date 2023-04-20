@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravan2202.
 - 👀 I’m interested in Development.
-- 🌱 Flask, Django, React is my weapons.
+- 🌱 ReactJS , NodeJS ,Flask is my weapons.
 - 💞️ Keen to explore different technologies.
 - 📫 How to reach me iamvikivivek2202@gmail.com.
 
