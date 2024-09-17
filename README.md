@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravan2202.
-- 👀 I’m interested in Development.
-- 🌱 ReactJS , NodeJS ,Flask is my weapons.
+- 🌱 ReactJS , NodeJS , ExpressJS , NestJS all these are my weapons.
+- 🍄 Currently learning Spring Boot
 - 💞️ Keen to explore different technologies.
 - 📫 How to reach me iamvikivivek2202@gmail.com.
 
