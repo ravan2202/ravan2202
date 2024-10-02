@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ravan2202.
-- ✍️ Language Hindi/English .... Noway its - ["Java","C++","JavaScript","TypeScript"].
-- 🌱 ReactJS , NodeJS , ExpressJS , NestJS all these are my weapons.
-- 🍄 Currently exploring JAVA framework.
+- 👋 Hi, I’m Vivek.
+- 🗣️ Language Hindi/English .... No way its - ["Java","C++","JavaScript","TypeScript","Python"].
+- ⚔️ ReactJS , NodeJS , ExpressJS , NestJS .... all are my weapons.
+- 📖 Currently exploring JAVA framework.
 - 💞️ Keen to explore different technologies.
 - 📫 How to reach me iamvikivivek2202@gmail.com.
 
